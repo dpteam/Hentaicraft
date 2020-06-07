@@ -1,0 +1,52 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Vulgarium",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "ru_ru": {
+      "item.vulgariumlegs.name": "Штаны из Вульгариума",
+      "item.vulgariumboots.name": "Бутсы из Вульгариума",
+      "item.vulgariumhelmet.name": "Шлем из Вульгариума",
+      "item.vulgariumbody.name": "Нагрудник из Вульгариума"
+    },
+    "en_us": {
+      "item.vulgariumlegs.name": "Vulgarium Legs",
+      "item.vulgariumboots.name": "Vulgarium Boots",
+      "item.vulgariumhelmet.name": "Vulgarium Helmet",
+      "item.vulgariumbody.name": "Vulgarium Body"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "nsfw",
+    "modName": "NSFW",
+    "version": "1.0.0",
+    "author": "DartPower, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "io.alaska.nsfw",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
