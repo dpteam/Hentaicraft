@@ -1,5 +1,7 @@
 {
-  "id_map": {},
+  "id_map": {
+    "DIMENSION": 1
+  },
   "mod_elements": [
     {
       "name": "VulgariumArmor",
@@ -38,6 +40,16 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "VulgariumDimension",
+      "type": "dimension",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
     }
   ],
   "variable_elements": [],
@@ -49,7 +61,8 @@
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
-      "item.vulgariumarmorboots.name": "Vulgarium Boots"
+      "item.vulgariumarmorboots.name": "Vulgarium Boots",
+      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter"
     },
     "en_us": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
@@ -57,7 +70,8 @@
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
-      "item.vulgariumarmorboots.name": "Vulgarium Boots"
+      "item.vulgariumarmorboots.name": "Vulgarium Boots",
+      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter"
     },
     "uk_ua": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
@@ -65,7 +79,8 @@
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
-      "item.vulgariumarmorboots.name": "Vulgarium Boots"
+      "item.vulgariumarmorboots.name": "Vulgarium Boots",
+      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter"
     }
   },
   "workspaceSettings": {

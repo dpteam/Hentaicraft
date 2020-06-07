@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.STONE#0"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "entity.ghast.scream"
+    },
+    "igniterName": "Vulgarium Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "vulgarium_helmet",
+    "portalTexture": "vulgariumgrass_path_top",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:VulgariumBiome0"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:VulgariumGrassBlock"
+    },
+    "tertiaryFillerBlock": {
+      "value": "CUSTOM:VulgariumGrassBlock"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:VulgariumFluid"
+    },
+    "airColor": {
+      "value": -6749953,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "dimensionMusic": {
+      "value": "ambient.cave"
+    }
+  }
+}

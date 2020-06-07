@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nsfw:vulgariumdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "nsfw:vulgariumdimension_portal_ns"
+    },
+    "inventory": {
+      "model": "nsfw:vulgariumdimension_portal_ns"
+    }
+  }
+}
