@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "fluid",
+  "definition": {
+    "name": "VulgariumFluid",
+    "textureStill": "vulgariumfluid_still",
+    "textureFlowing": "vulgariumfluid_flow",
+    "luminosity": 50,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "spawnWorldTypes": [
+      "Surface"
+    ]
+  }
+}

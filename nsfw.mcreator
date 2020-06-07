@@ -14,6 +14,14 @@
         "ec": true,
         "el": true
       }
+    },
+    {
+      "name": "VulgariumFluid",
+      "type": "fluid",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -21,12 +29,21 @@
   "language_map": {
     "ru_ru": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
+      "fluid.vulgariumfluid": "VulgariumFluid",
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
       "item.vulgariumarmorboots.name": "Vulgarium Boots"
     },
     "en_us": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
+      "fluid.vulgariumfluid": "VulgariumFluid",
+      "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
+      "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
+      "item.vulgariumarmorboots.name": "Vulgarium Boots"
+    },
+    "uk_ua": {
+      "item.vulgariumarmorbody.name": "Vulgarium Body",
+      "fluid.vulgariumfluid": "VulgariumFluid",
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
       "item.vulgariumarmorboots.name": "Vulgarium Boots"
