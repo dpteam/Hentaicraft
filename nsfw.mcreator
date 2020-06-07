@@ -22,6 +22,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "VulgariumGrassBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -31,6 +39,7 @@
       "item.vulgariumarmorbody.name": "Vulgarium Body",
       "fluid.vulgariumfluid": "VulgariumFluid",
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
+      "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
       "item.vulgariumarmorboots.name": "Vulgarium Boots"
     },
@@ -38,6 +47,7 @@
       "item.vulgariumarmorbody.name": "Vulgarium Body",
       "fluid.vulgariumfluid": "VulgariumFluid",
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
+      "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
       "item.vulgariumarmorboots.name": "Vulgarium Boots"
     },
@@ -45,6 +55,7 @@
       "item.vulgariumarmorbody.name": "Vulgarium Body",
       "fluid.vulgariumfluid": "VulgariumFluid",
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
+      "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
       "item.vulgariumarmorboots.name": "Vulgarium Boots"
     }

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nsfw:blocks/vulgariumgrass_path_top",
+    "up": "nsfw:blocks/vulgariumgrass_path_top",
+    "north": "nsfw:blocks/vulgariumgrass_path_side",
+    "east": "nsfw:blocks/vulgariumgrass_path_side",
+    "south": "nsfw:blocks/vulgariumgrass_path_side",
+    "west": "nsfw:blocks/vulgariumgrass_path_side",
+    "particle": "nsfw:blocks/vulgariumgrass_path_top"
+  }
+}
