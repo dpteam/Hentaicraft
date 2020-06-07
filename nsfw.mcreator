@@ -2,17 +2,17 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Vulgarium",
+      "name": "VulgariumArmor",
       "type": "armor",
-      "sortid": 1,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": true,
-        "el": true,
         "eb": true,
-        "ec": true
+        "ec": true,
+        "el": true
       }
     }
   ],
@@ -20,16 +20,16 @@
   "sound_elements": [],
   "language_map": {
     "ru_ru": {
-      "item.vulgariumlegs.name": "Штаны из Вульгариума",
-      "item.vulgariumboots.name": "Бутсы из Вульгариума",
-      "item.vulgariumhelmet.name": "Шлем из Вульгариума",
-      "item.vulgariumbody.name": "Нагрудник из Вульгариума"
+      "item.vulgariumarmorbody.name": "Vulgarium Body",
+      "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
+      "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
+      "item.vulgariumarmorboots.name": "Vulgarium Boots"
     },
     "en_us": {
-      "item.vulgariumlegs.name": "Vulgarium Legs",
-      "item.vulgariumboots.name": "Vulgarium Boots",
-      "item.vulgariumhelmet.name": "Vulgarium Helmet",
-      "item.vulgariumbody.name": "Vulgarium Body"
+      "item.vulgariumarmorbody.name": "Vulgarium Body",
+      "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
+      "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
+      "item.vulgariumarmorboots.name": "Vulgarium Boots"
     }
   },
   "workspaceSettings": {
