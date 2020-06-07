@@ -1,0 +1,295 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Vulgarium Biome0",
+    "groundBlock": {
+      "value": "CUSTOM:VulgariumGrassBlock"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 14,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "Blocks.LOG#0"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES#0"
+    },
+    "treeFruits": {
+      "value": "Blocks.BUBBLE_CORAL_BLOCK"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -39169,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -65281,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -65332,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "TAIGA",
+    "parent": {
+      "value": "warm_ocean"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": [
+      {
+        "value": "EntityAgeable"
+      },
+      {
+        "value": "EntityAmbientCreature"
+      },
+      {
+        "value": "EntityAnimal"
+      },
+      {
+        "value": "EntityBat"
+      },
+      {
+        "value": "EntityBlaze"
+      },
+      {
+        "value": "EntityCat"
+      },
+      {
+        "value": "EntityCaveSpider"
+      },
+      {
+        "value": "EntityChicken"
+      },
+      {
+        "value": "EntityCod"
+      },
+      {
+        "value": "EntityCow"
+      },
+      {
+        "value": "EntityCreature"
+      },
+      {
+        "value": "EntityCreeper"
+      },
+      {
+        "value": "EntityDonkey"
+      },
+      {
+        "value": "EntityDolphin"
+      },
+      {
+        "value": "EntityDrowned"
+      },
+      {
+        "value": "EntityDragon"
+      },
+      {
+        "value": "EntityElderGuardian"
+      },
+      {
+        "value": "EntityEnderman"
+      },
+      {
+        "value": "EntityEndermite"
+      },
+      {
+        "value": "EntityEvoker"
+      },
+      {
+        "value": "EntityFox"
+      },
+      {
+        "value": "EntityGhast"
+      },
+      {
+        "value": "EntityGiantZombie"
+      },
+      {
+        "value": "EntityGolem"
+      },
+      {
+        "value": "EntityGuardian"
+      },
+      {
+        "value": "EntityHorse"
+      },
+      {
+        "value": "EntityHusk"
+      },
+      {
+        "value": "EntityIllusionIllager"
+      },
+      {
+        "value": "EntityIronGolem"
+      },
+      {
+        "value": "EntityLiving"
+      },
+      {
+        "value": "EntityLlama"
+      },
+      {
+        "value": "EntityMagmaCube"
+      },
+      {
+        "value": "EntityMob"
+      },
+      {
+        "value": "EntityMooshroom"
+      },
+      {
+        "value": "EntityMule"
+      },
+      {
+        "value": "EntityOcelot"
+      },
+      {
+        "value": "EntityPanda"
+      },
+      {
+        "value": "EntityParrot"
+      },
+      {
+        "value": "EntityPig"
+      },
+      {
+        "value": "EntityPillager"
+      },
+      {
+        "value": "EntityPufferfish"
+      },
+      {
+        "value": "EntityPigZombie"
+      },
+      {
+        "value": "EntityPolarBear"
+      },
+      {
+        "value": "EntityRabbit"
+      },
+      {
+        "value": "EntitySalmon"
+      },
+      {
+        "value": "EntitySheep"
+      },
+      {
+        "value": "EntityShoulderRiding"
+      },
+      {
+        "value": "EntityShulker"
+      },
+      {
+        "value": "EntitySilverfish"
+      },
+      {
+        "value": "EntitySkeleton"
+      },
+      {
+        "value": "EntitySkeletonHorse"
+      },
+      {
+        "value": "EntitySlime"
+      },
+      {
+        "value": "EntitySnowman"
+      },
+      {
+        "value": "EntitySpellcasterIllager"
+      },
+      {
+        "value": "EntitySpider"
+      },
+      {
+        "value": "EntitySquid"
+      },
+      {
+        "value": "EntityStray"
+      },
+      {
+        "value": "EntityTraderLlama"
+      },
+      {
+        "value": "EntityTameable"
+      },
+      {
+        "value": "EntityTropicalFish"
+      },
+      {
+        "value": "EntityTurtle"
+      },
+      {
+        "value": "EntityTrident"
+      },
+      {
+        "value": "EntityVex"
+      },
+      {
+        "value": "EntityVillager"
+      },
+      {
+        "value": "EntityVindicator"
+      },
+      {
+        "value": "EntityWaterMob"
+      },
+      {
+        "value": "EntityWanderingTrader"
+      },
+      {
+        "value": "EntityWitch"
+      },
+      {
+        "value": "EntityWither"
+      },
+      {
+        "value": "EntityWitherSkeleton"
+      },
+      {
+        "value": "EntityWolf"
+      },
+      {
+        "value": "EntityZombie"
+      },
+      {
+        "value": "EntityZombieHorse"
+      },
+      {
+        "value": "EntityZombieVillager"
+      },
+      {
+        "value": "EntityPhantom"
+      },
+      {
+        "value": "EntityRavager"
+      }
+    ]
+  }
+}
