@@ -2,9 +2,9 @@
   "_fv": 6,
   "_type": "fluid",
   "definition": {
-    "name": "VulgariumFluid",
-    "textureStill": "vulgariumfluid_still_2d",
-    "textureFlowing": "vulgariumfluid_flow_2d",
+    "name": "MochaFluid",
+    "textureStill": "mochafluid_still_2d",
+    "textureFlowing": "mochafluid_flow_2d",
     "luminosity": 50,
     "density": 1000,
     "viscosity": 1000,

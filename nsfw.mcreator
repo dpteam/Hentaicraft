@@ -84,6 +84,14 @@
         "0": 5,
         "1": 6
       }
+    },
+    {
+      "name": "MochaFluid",
+      "type": "fluid",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -99,7 +107,8 @@
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
       "item.vulgariumarmorboots.name": "Vulgarium Boots",
-      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter"
+      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter",
+      "fluid.mochafluid": "VulgariumFluid"
     },
     "en_us": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
@@ -111,7 +120,8 @@
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
       "item.vulgariumarmorboots.name": "Vulgarium Boots",
-      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter"
+      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter",
+      "fluid.mochafluid": "MochaFluid"
     },
     "uk_ua": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
@@ -123,7 +133,8 @@
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
       "item.vulgariumarmorboots.name": "Vulgarium Boots",
-      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter"
+      "item.vulgariumdimension.name": "Vulgarium Dimension Portal Igniter",
+      "fluid.mochafluid": "VulgariumFluid"
     }
   },
   "workspaceSettings": {

@@ -33,23 +33,23 @@ import java.util.Random;
 import io.alaska.nsfw.ElementsNSFW;
 
 @ElementsNSFW.ModElement.Tag
-public class BlockVulgariumFluid extends ElementsNSFW.ModElement {
-	@GameRegistry.ObjectHolder("nsfw:vulgariumfluid")
+public class BlockMochaFluid extends ElementsNSFW.ModElement {
+	@GameRegistry.ObjectHolder("nsfw:mochafluid")
 	public static final Block block = null;
-	@GameRegistry.ObjectHolder("nsfw:vulgariumfluid")
+	@GameRegistry.ObjectHolder("nsfw:mochafluid")
 	public static final Item item = null;
 	private Fluid fluid;
-	public BlockVulgariumFluid(ElementsNSFW instance) {
-		super(instance, 3);
-		fluid = new Fluid("vulgariumfluid", new ResourceLocation("nsfw:blocks/vulgariumfluid_still_2d"),
-				new ResourceLocation("nsfw:blocks/vulgariumfluid_flow_2d")).setLuminosity(50).setDensity(1000).setViscosity(1000).setGaseous(false);
+	public BlockMochaFluid(ElementsNSFW instance) {
+		super(instance, 10);
+		fluid = new Fluid("mochafluid", new ResourceLocation("nsfw:blocks/mochafluid_still_2d"),
+				new ResourceLocation("nsfw:blocks/mochafluid_flow_2d")).setLuminosity(50).setDensity(1000).setViscosity(1000).setGaseous(false);
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new BlockFluidClassic(fluid, Material.WATER) {
-		}.setUnlocalizedName("vulgariumfluid").setRegistryName("vulgariumfluid"));
-		elements.items.add(() -> new ItemBlock(block).setRegistryName("vulgariumfluid"));
+		}.setUnlocalizedName("mochafluid").setRegistryName("mochafluid"));
+		elements.items.add(() -> new ItemBlock(block).setRegistryName("mochafluid"));
 	}
 
 	@Override
@@ -65,13 +65,13 @@ public class BlockVulgariumFluid extends ElementsNSFW.ModElement {
 		ModelLoader.setCustomMeshDefinition(item, new ItemMeshDefinition() {
 			@Override
 			public ModelResourceLocation getModelLocation(ItemStack stack) {
-				return new ModelResourceLocation("nsfw:vulgariumfluid", "vulgariumfluid");
+				return new ModelResourceLocation("nsfw:mochafluid", "mochafluid");
 			}
 		});
 		ModelLoader.setCustomStateMapper(block, new StateMapperBase() {
 			@Override
 			protected ModelResourceLocation getModelResourceLocation(IBlockState state) {
-				return new ModelResourceLocation("nsfw:vulgariumfluid", "vulgariumfluid");
+				return new ModelResourceLocation("nsfw:mochafluid", "mochafluid");
 			}
 		});
 	}
