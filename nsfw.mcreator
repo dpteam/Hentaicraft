@@ -1,6 +1,7 @@
 {
   "id_map": {
-    "DIMENSION": 1
+    "DIMENSION": 1,
+    "ENTITY": 6
   },
   "mod_elements": [
     {
@@ -50,6 +51,39 @@
       "ids": {
         "1": 1
       }
+    },
+    {
+      "name": "VulgariumMan",
+      "type": "mob",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1,
+        "1": 2
+      }
+    },
+    {
+      "name": "Adam",
+      "type": "mob",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 3,
+        "1": 4
+      }
+    },
+    {
+      "name": "Eve",
+      "type": "mob",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 5,
+        "1": 6
+      }
     }
   ],
   "variable_elements": [],
@@ -57,7 +91,10 @@
   "language_map": {
     "ru_ru": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
+      "entity.vulgariumman.name": "Vulgarium Man",
+      "entity.eve.name": "Adam",
       "fluid.vulgariumfluid": "VulgariumFluid",
+      "entity.adam.name": "Vulgarium Man",
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
@@ -66,7 +103,10 @@
     },
     "en_us": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
+      "entity.vulgariumman.name": "Vulgarium Man",
+      "entity.eve.name": "Eve",
       "fluid.vulgariumfluid": "VulgariumFluid",
+      "entity.adam.name": "Adam",
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",
@@ -75,7 +115,10 @@
     },
     "uk_ua": {
       "item.vulgariumarmorbody.name": "Vulgarium Body",
+      "entity.vulgariumman.name": "Vulgarium Man",
+      "entity.eve.name": "Adam",
       "fluid.vulgariumfluid": "VulgariumFluid",
+      "entity.adam.name": "Vulgarium Man",
       "item.vulgariumarmorlegs.name": "Vulgarium Leggings",
       "tile.vulgariumgrassblock.name": "Vulgarium Grass Block",
       "item.vulgariumarmorhelmet.name": "Vulgarium Helmet",

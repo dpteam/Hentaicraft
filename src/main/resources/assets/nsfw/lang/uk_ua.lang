@@ -1,5 +1,8 @@
 item.vulgariumarmorbody.name=Vulgarium Body
+entity.vulgariumman.name=Vulgarium Man
+entity.eve.name=Adam
 fluid.vulgariumfluid=VulgariumFluid
+entity.adam.name=Vulgarium Man
 item.vulgariumarmorlegs.name=Vulgarium Leggings
 tile.vulgariumgrassblock.name=Vulgarium Grass Block
 item.vulgariumarmorhelmet.name=Vulgarium Helmet
